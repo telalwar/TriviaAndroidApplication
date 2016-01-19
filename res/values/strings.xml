@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trivia_Sachin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="NextButton">Next</string>
+    <string name="play">Play button</string>
+    <string name="correct">True</string>
+    <string name="wrong">False</string>
+     <string name="submitAns">Submit Answer</string>
+	<string name="next">Next Question</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">सामान्य ज्ञान सचिन</string>
+    <string name="action_settings">नियंत्रण</string>
+    <string name="hello_world">नमस्ते</string>
+    <string name="hello_blank_fragment">रिक्त टुकड़ा</string>
+    <string name="SubmitButton">प्रस्तुत करना</string>
+    <string name="NextButton">अगला</string>
+    <string name="play">Play button</string>
+    <string name="correct">बटन खेलें</string>
+    <string name="wrong">झूठा</string>
+     <string name="submitAns">जवाब भेजें</string>
+	<string name="next">अगला सवाल</string>
+</resources>
